@@ -9,13 +9,13 @@
 
 - 'i' to enter *insert mode*
 - back to master branch. we have first-branch and -second branch
-- git Checked out stash-branch
+- git Checked out stash-branch (lof files)
 
 
 - git merger: Merges branches
 
 
-- what happens with simple merge 
+- what happens with simple merge
 
 
 ## Merging means bringing changes from one branch into the other
