@@ -4,3 +4,7 @@
 - git init:
 - git status
 - git
+
+## Commit messages
+
+- 'i' to enter *insert mode*
