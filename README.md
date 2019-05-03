@@ -8,8 +8,10 @@
 ## Commit messages
 
 - 'i' to enter *insert mode*
+
 - back to master branch. creat git repository we have first-branch and -second branch
-- git Checked out stash-branch
+- git Checked out stash-branch (lof files)
+
 
 
 - git merger: Merges branches
