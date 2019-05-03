@@ -11,3 +11,5 @@
 - back to master branch. we have first-branch and -second branch
 
 - created new-branch and making changes to it
+- second change to new-branch
+- we will stash this change
