@@ -10,3 +10,6 @@
 - 'i' to enter *insert mode*
 - back to master branch. we have first-branch and -second branch
 - git Checked out stash-branch
+
+
+- git merger: Merges branches
