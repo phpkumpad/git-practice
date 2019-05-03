@@ -8,3 +8,6 @@
 ## Commit messages
 
 - 'i' to enter *insert mode*
+
+## Git branch
+- git branch 
