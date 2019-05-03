@@ -9,3 +9,5 @@
 
 - 'i' to enter *insert mode*
 - back to master branch. we have first-branch and -second branch
+
+- created new-branch and making changes to it
