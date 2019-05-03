@@ -19,3 +19,7 @@
 - we will stash this change
 
 ## Auto pull
+
+- git bull: Fetch
+
+## Remote depositories
