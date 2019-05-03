@@ -15,5 +15,7 @@
 - git merger: Merges branches
 
 
+- what happens with simple merge 
 
-## Merging means bringing changes from one branch into the other 
+
+## Merging means bringing changes from one branch into the other
