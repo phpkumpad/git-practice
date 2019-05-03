@@ -13,3 +13,7 @@
 
 
 - git merger: Merges branches
+
+
+
+## Merging means bringing changes from one branch into the other 
